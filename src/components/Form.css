@@ -1,0 +1,48 @@
+
+  
+  .container {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .regitered {
+  color: black;
+  }
+  
+  .data {
+    margin-bottom: 20px;
+  }
+  
+  .inputfeild {
+    width: 100%;
+    padding: 10px;
+    margin: 5px 0;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  
+  span {
+    color: red;
+    font-size: 14px;
+  }
+  
+  .submit {
+    background-color: green;
+    color: #fff;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+   display: flex;
+   align-items: center;
+   text-align: center;
+    width:200px;
+  }
+  
+  .submit:hover {
+    background-color: rgb(0, 89, 0);
+  }

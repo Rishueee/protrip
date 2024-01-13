@@ -1,0 +1,22 @@
+
+.route{
+  background-color: black;
+  display: flex;
+  margin-right: 20vh;
+  color: white;
+  width: 211.5vh;
+  margin: -8px;
+}
+
+.ab{
+  display: flex;
+  justify-content: end;
+  gap: 20px;
+  margin-left: 76vw;
+  background-color: black;
+  color: white;
+}
+
+h3{
+  text-align: center;
+}
